@@ -1,0 +1,2 @@
+# sentiment_analysis_using_Clustering_a_Machine_learning_approach
+In this project we have implemented sentiment analysis using clustering
